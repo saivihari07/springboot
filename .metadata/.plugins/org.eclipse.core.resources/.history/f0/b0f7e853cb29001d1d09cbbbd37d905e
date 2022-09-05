@@ -1,0 +1,5 @@
+package com.springrest.examples.controller;
+
+public class CustomerController {
+
+}

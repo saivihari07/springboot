@@ -1,0 +1,15 @@
+package com.springrest.examples.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CustomerService {
+
+	public CustomerService() {
+		System.out.println("customer-service:constructor");
+	}
+	
+	public Customer getUser() {
+		return new 
+	}
+}

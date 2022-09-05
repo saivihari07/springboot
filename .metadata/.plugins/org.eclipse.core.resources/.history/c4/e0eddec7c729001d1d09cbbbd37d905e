@@ -1,0 +1,15 @@
+package com.spring_restapi.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.spring_restapi.dao.UserDao;
+import com.spring_restapi.model.User;
+
+@Service
+public class UserService {
+
+	
+}

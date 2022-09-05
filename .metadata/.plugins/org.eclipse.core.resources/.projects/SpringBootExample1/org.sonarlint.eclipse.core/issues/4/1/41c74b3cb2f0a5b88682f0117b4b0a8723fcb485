@@ -1,0 +1,8 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(€•Α8κ‘Ν®0HλRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‰™–ÿÿÿÿÿHΡRMAJORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'com.springboot.demo.model.User'.(ύ‚υΈϋÿÿÿÿ8χτυΙ®0HΗRMINORZ
+CODE_SMELL

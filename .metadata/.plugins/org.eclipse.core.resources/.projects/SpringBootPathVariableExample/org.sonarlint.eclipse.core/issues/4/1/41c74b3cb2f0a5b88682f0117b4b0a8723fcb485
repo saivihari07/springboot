@@ -1,0 +1,11 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‰™–ÿÿÿÿÿH§RMAJORZ
+CODE_SMELL
+l
+java:S1128	";Remove this unused import 'com.springboot.demo.model.User'.(ı‚õ¸ûÿÿÿÿH¦RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(€•ÁH¨RMAJORZ
+CODE_SMELL
+~
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8ùêËô®0H©RMINORZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+
+v
+java:S4488)"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(à§¡‰HRMINORZ
+CODE_SMELL
+q
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(Ø×«$HRCRITICALZVULNERABILITY
+x
+java:S1192M"IDefine a constant instead of duplicating this literal "viewcart" 3 times.(Œ“ğÆHRCRITICALZ
+CODE_SMELL
+z
+java:S1192L"FDefine a constant instead of duplicating this literal "carts" 3 times.(å®É¦şÿÿÿÿH‘RCRITICALZ
+CODE_SMELL
+d	java:S106l"9Replace this use of System.out or System.err by a logger.(á›„ıH’RMAJORZ
+CODE_SMELL
+z
+java:S1192g"KDefine a constant instead of duplicating this literal "order-page" 3 times.(èäòH“RCRITICALZ
+CODE_SMELL
+w
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(ÒÑ–ÇûÿÿÿÿH”RCRITICALZVULNERABILITY

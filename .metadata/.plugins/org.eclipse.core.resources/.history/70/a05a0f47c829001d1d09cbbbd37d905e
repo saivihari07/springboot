@@ -1,0 +1,20 @@
+package com.spring_restapi.services;
+
+import org.springframework.stereotype.Service;
+
+import com.spring_restapi.model.User;
+
+@Service
+public class UserService {
+
+	
+	public UserService() {}
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
+	public User getUser()
+	{
+		return new User;
+	}
+}

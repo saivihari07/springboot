@@ -1,0 +1,27 @@
+package com.springrest.examples.controller;
+
+import java.util.List;
+
+import javax.annotation.PostConstruct;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springrest.examples.model.Customer;
+
+@RestController
+public class CustomerController {
+	
+	private List<Customer> theCustomers;
+
+	public CustomerController() {
+		System.out.println("customer-controller");
+	}
+	
+	@PostConstruct
+	public void getCustomer() {
+		System.out.println("get customer is calling..");
+		System.out.println(customerService.getCustomer());
+	}
+	
+	
+}

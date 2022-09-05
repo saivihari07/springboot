@@ -1,0 +1,10 @@
+package com.spring_restapi.controller;
+
+@restco
+public class UserRestController
+{
+	
+}
+	
+	
+

@@ -1,0 +1,28 @@
+package com.springrest.examples.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.annotation.PostConstruct;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springrest.examples.model.Customer;
+
+@RestController
+public class CustomerController {
+	
+	private List<Customer> theCustomers;
+	
+	@PostConstruct
+	public void getCustomers() {
+		theCustomers = new ArrayList<>();
+		
+		theCustomers.add(new Customer("raju","hyd",23));
+		theCustomers.add(new Customer("sai","hyd",24));
+		theCustomers.add(new Customer("kailash","hyd",23));
+		theCustomers.add(new Customer("raju","hyd",23));
+	}
+	
+	
+}

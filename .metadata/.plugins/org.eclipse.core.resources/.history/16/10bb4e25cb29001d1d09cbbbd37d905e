@@ -1,0 +1,7 @@
+package com.springrest.examples.model;
+
+public class Customer {
+	
+	private String name;
+	
+}

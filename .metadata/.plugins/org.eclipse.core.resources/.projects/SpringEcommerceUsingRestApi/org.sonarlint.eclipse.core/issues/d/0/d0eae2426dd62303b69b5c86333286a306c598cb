@@ -1,0 +1,7 @@
+
+
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(¶®´ŞúÿÿÿÿHôRMINORZ
+CODE_SMELL
+d
+java:S1874"8Remove this use of "findByNamedParam"; it is deprecated.(±‡‹¢HõRMINORZ
+CODE_SMELL

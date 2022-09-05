@@ -1,0 +1,9 @@
+
+l	java:S125."<This block of commented-out lines of code should be removed.(”ğÖ†ûÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+w
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(ÕõßüÿÿÿÿHøRCRITICALZVULNERABILITY
+g	java:S1253"<This block of commented-out lines of code should be removed.(ùøä”HùRMAJORZ
+CODE_SMELL
+w
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(õ³ŒÇøÿÿÿÿHúRCRITICALZVULNERABILITY

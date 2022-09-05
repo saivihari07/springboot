@@ -1,0 +1,21 @@
+package com.springrest.examples.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.springrest.examples.service.CustomerService;
+
+@RestController
+public class CustomerController {
+	
+	@Autowired 
+	public CustomerService customerService;
+
+	public CustomerController() {
+		System.out.println("customer-controller");
+	}
+	
+	public void get
+	
+	
+}

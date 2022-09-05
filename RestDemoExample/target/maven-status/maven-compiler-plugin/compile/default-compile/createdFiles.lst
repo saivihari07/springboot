@@ -1,0 +1,6 @@
+com\spring_restapi\config\MainConfig.class
+com\spring_restapi\dao\UserDao.class
+com\spring_restapi\model\User.class
+com\spring_restapi\config\MyDispatcherServletInitializer.class
+com\spring_restapi\controller\UserRestController.class
+com\spring_restapi\services\UserService.class

@@ -1,0 +1,10 @@
+
+r
+java:S1128	"ARemove this unused import 'javax.validation.constraints.NotNull'.(αη¥γόÿÿÿÿH»RMINORZ
+CODE_SMELL
+c
+java:S1128"7Remove this unused import 'javax.persistence.OneToOne'.(Ψ½οβHΊRMINORZ
+CODE_SMELL
+µ
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΧΞ®όÿÿÿÿHΌRCRITICALZ
+CODE_SMELL

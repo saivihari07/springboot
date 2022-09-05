@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootRequestBodyExample2"/>
+<aop-project name="SpringBootResponseBodyExample"/>
+<aop-project name="SpringBootPathVariableExample"/>
+<aop-project name="SpringBootRequestBodyExample"/>
+</aop-reference-model>

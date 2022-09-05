@@ -1,0 +1,16 @@
+
+•
+java:S1488l"dImmediately return this expression instead of assigning it to the temporary variable "jdbcTemplate".(Ùÿ¼ÌüÿÿÿÿHÜRMINORZ
+CODE_SMELL
+º
+java:S4449c"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(•¾ÜæýÿÿÿÿHÝRMAJORZ
+CODE_SMELL
+š
+java:S1488c"iImmediately return this expression instead of assigning it to the temporary variable "hibernateTemplate".(•¾ÜæýÿÿÿÿHÞRMINORZ
+CODE_SMELL
+€
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(›¥÷ˆûÿÿÿÿHßRMINORZ
+CODE_SMELL
+Ä
+java:S4449<"˜Annotate the parameter with @javax.annotation.Nullable in method 'setDriverClassName' declaration, or make sure that null can not be passed as argument.(ºÿ¼=HàRMAJORZ
+CODE_SMELL

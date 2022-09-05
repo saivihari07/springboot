@@ -1,0 +1,7 @@
+package com.springrest.examples.service;
+
+@serv
+public class CustomerService {
+
+	
+}
